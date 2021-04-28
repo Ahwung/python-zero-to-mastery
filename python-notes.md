@@ -26,3 +26,12 @@ Specialized Data Types: Not built into Python
 None: nothing, absence of value
 
 type(): What data type is it
+
+Math Operators
+- Modulo (%): returns remainder of division
+- //: returns an integer that is rounded down
+- **: Exponent, to the power of
+
+Math Functions
+- round
+- abs: absolute value
