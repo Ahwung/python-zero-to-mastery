@@ -31,3 +31,9 @@
 
 # print(round(3.9))
 # print(abs(-20))
+
+# print((20 - 3) + 2 ** 2)
+
+# print(bin(5))
+# print(int('0b101', 2))
+    # changes binary number to integer

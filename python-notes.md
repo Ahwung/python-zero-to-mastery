@@ -18,6 +18,9 @@ Fundamental Data Types
 - set
 - dict
 
+Extra Data Type
+- complex
+
 Classes: custom types, created by user
 
 Specialized Data Types: Not built into Python
@@ -35,3 +38,13 @@ Math Operators
 Math Functions
 - round
 - abs: absolute value
+
+Operator Precedence
+1. ()
+2. **
+3. * and /
+4. + and -
+
+bin(): returns binary representation of number
+
+Data is stored in memory as binary and then converted back into recognizable data
